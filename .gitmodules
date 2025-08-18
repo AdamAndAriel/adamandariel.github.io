@@ -1,2 +1,4 @@
 [submodule "themes/hexo-theme-matery"]
 	branch = my_matery
+	path = themes/hexo-theme-matery
+	url = https://github.com/aodongliu/hexo-theme-matery.git
