@@ -5,7 +5,7 @@ tags:
     - Moving
 categories:
     - News
-cover: img/scenery/rainier-shot-from-kitchen-cropped.jpg
+img: /images/scenery/rainier-shot-from-kitchen.jpg
 ---
 
 We've moved! 🏠✨ (or should we say Adam moved into Ariel's apartment 🚚💕)

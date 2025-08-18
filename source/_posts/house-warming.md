@@ -1,6 +1,6 @@
 ---
 title: House Warming!
-cover: img/scenery/rainier-shot-from-kitchen-cropped.jpg
+img: /images/food/house-warming-dinner-home-cooked.jpg
 date: 2024-02-03 18:24:26
 tags:
     - Cooking

@@ -5,7 +5,7 @@ tags:
     - Food
 categories:
     - Daily Life
-cover: img/scenery/rainier-shot-from-kitchen-cropped.jpg
+img: /images/food/beef-brisket-with-tomato-by-ariel.jpg
 ---
 
 Last night, Ariel showed off her wizardry in the kitchen with 🍅🥩. It was super delicious and a perfect way to celebrate wrapping up the moving process.

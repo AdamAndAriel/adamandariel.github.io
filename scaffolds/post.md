@@ -3,7 +3,7 @@ title: {{ title }}
 date: {{ date }}
 tags:
 categories:
-cover: img/scenery/rainier-shot-from-kitchen-cropped.jpg
+img: img/scenery/rainier-shot-from-kitchen-cropped.jpg
 ---
 
 

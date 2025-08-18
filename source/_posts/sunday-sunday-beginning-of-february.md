@@ -1,6 +1,6 @@
 ---
 title: Sunny Sunday, Beginning of February
-cover: img/scenery/rainier-shot-from-kitchen-cropped.jpg
+img: /images/sunday-sunday-beginning-of-february/wheel_night.jpg
 date: 2024-02-04 18:24:26
 tags:
     - Sunday

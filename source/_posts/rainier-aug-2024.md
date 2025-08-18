@@ -1,6 +1,6 @@
 ---
 title: Skyline Trail, Rainier, August 31st, 2024
-cover: img/rainier-aug-2024/adam-ariel.jpg
+img: /images/rainier-aug-2024/adam-ariel.jpg
 date: 2024-08-31 18:24:26
 tags:
     - Hiking
