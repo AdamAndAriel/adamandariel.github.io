@@ -24,7 +24,7 @@ Adam and Xuechen at the summit:
 <img src="/images/rainier-aug-2024/adam-xuechen.jpg"   width="400" />
 
 Saw a very friendly chipmunk: 
-<img src="/images/rainier-aug-2024/adam-chipmunk.jpg"   width="400" />
+<img src="/images/rainier-aug-2024/adam-chipmunk.JPG"   width="400" />
 <img src="/images/rainier-aug-2024/adam-chipmunk2.jpg"   width="400" />
 
 Adam and Ariel:
