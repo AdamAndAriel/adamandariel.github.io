@@ -18,7 +18,7 @@ Adam tries to be Wukong:
 <img src="/images/rainier-aug-2024/adam-wukong.jpg"   width="400" />
 
 Ariel being beautiful as she is:
-<img src="/images/rainier-aug-2024/ariel.jpg"   width="400" />
+<img src="/images/rainier-aug-2024/ariel.JPG"   width="400" />
 
 Adam and Xuechen at the summit:
 <img src="/images/rainier-aug-2024/adam-xuechen.jpg"   width="400" />
