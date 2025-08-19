@@ -40,7 +40,7 @@ And then there was the Wedding Day~
 The venue was a lovely small venue near Philadelphia. Ariel and Eunsoo were both bridesmaids, so they had to read speeches, and also what non-weather appropriate dresses for the ceremony….
 
 Here is a photo of Abby, Ariel and Eunsoo
-<img src="/images/thanksgiving-2024/abby-ariel-eunsoo.jpg"   width="400" />
+<img src="/images/thanksgiving-2024/abby-ariel-eunsoo.JPG"   width="400" />
 
 <img src="/images/thanksgiving-2024/ariel-eunsoo3.JPG"   width="400" />
 
